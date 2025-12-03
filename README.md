@@ -5,14 +5,14 @@
 ### Inside the .zip
 After extracting .zip, it should contain:  
 
-    - README.md  
-    - DataCollection&Analysis.ipynb  
-    - Regression.ipynb  
-    - vis.ipynb  
-    - final_features.csv  
-    - market_monthly.csv  
-    - stocks_monthly.csv  
-    - trends_monthly.csv  
+- README.md  
+- DataCollection&Analysis.ipynb  
+- Regression.ipynb  
+- vis.ipynb  
+- final_features.csv  
+- market_monthly.csv  
+- stocks_monthly.csv  
+- trends_monthly.csv  
 
 **README.md** will guide\inform users on how to run notebooks, installation of required packages,  
 source of dataset, and what each file inside .zip does.   
