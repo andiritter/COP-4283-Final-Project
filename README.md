@@ -68,9 +68,9 @@ Replace 'package' with each of the required packages:
     - datetime  
 
 ### How to Run the .ipynb Files
-    - For every .ipynb file included in the .zip, the user should run the code cells in the order  
-      they appear.   
-    - We found the visualizations did not load properly in Spyder, but did load in Jupyter Notebooks,  
-      so we recommend that users open and run the files in a web-based environment, like Jupyter Notebooks.  
-    - The majority of data visualizations will be found in vis.ipynb, however, some visualizations can  
-      also be found in DataCollection&Analysis.ipynb.  
+- For every .ipynb file included in the .zip, the user should run the code cells in the order  
+they appear.   
+- We found the visualizations did not load properly in Spyder, but did load in Jupyter Notebooks,  
+so we recommend that users open and run the files in a web-based environment, like Jupyter Notebooks.  
+- The majority of data visualizations will be found in vis.ipynb, however, some visualizations can  
+also be found in DataCollection&Analysis.ipynb.  
