@@ -2,13 +2,7 @@
 # README - Group 18
 ## Presley Whitehead, Andrea Ritter, Matheus Santos Gomes, Joaquin Hidalgo-Estrada, Caio Rosa Rocha
 
-### Contents
-    1. [Inside the .zip](#zip-contents)
-    2. [Data Sources](#sources)
-    3. [Package Installation](#install)
-    4. [How to Run the .ipynb Files](#run)
-
-### Inside the .zip {#zip-contents}
+### Inside the .zip
 After extracting .zip, it should contain:
     - README.md
     - DataCollection&Analysis.ipynb
@@ -55,11 +49,11 @@ in final_features.csv.
 are AI related search terms, and each observation corresponds to the Google trends score for each
 search term on the first day of each month, ranging from January 2020 to October 2025.
 
-### Data Sources {#sources}
+### Data Sources
 All Google trends data is sourced from the [Google Trends website.](https://trends.google.com/trends/)
 All stock related data is sourced from the Yahoo Finance API.
 
-### Package Installation {#install}
+### Package Installation
 Before running any code cells in any of the .ipynb files, install the required packages by running
 the following code in a Python environment:
     `pip install package`
@@ -72,7 +66,7 @@ Replace 'package' with each of the required packages:
     - statsmodels.api
     - datetime
 
-### How to Run the .ipynb Files {#run}
+### How to Run the .ipynb Files
     - For every .ipynb file included in the .zip, the user should run the code cells in the order
       they appear. 
     - We found the visualizations did not load properly in Spyder, but did load in Jupyter Notebooks,
