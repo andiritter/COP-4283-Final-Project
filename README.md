@@ -67,6 +67,7 @@ Replace 'package' with each of the required packages:
     - datetime  
 
 ### How to Run the .ipynb Files
+Some tips:  
     - For every .ipynb file included in the .zip, the user should run the code cells in the order  
     they appear.   
     - We found the visualizations did not load properly in Spyder, but did load in Jupyter Notebooks,  
