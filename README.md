@@ -22,25 +22,25 @@ the visualizations.
 **vis.ipynb** will show data visualizations and data manipulation.  
 **final_features.csv** contains a dataset with 40 features and 68 observations, where each feature  
 describes one of the following AI related stocks:  
-    - AMZN  
-    - META  
-    - GOOGL  
-    - NVDA  
-    - MSFT  
+- AMZN  
+- META  
+- GOOGL  
+- NVDA  
+- MSFT  
 The types of descriptions are as follows:  
-    - returns  
-    - excess returns  
-    - Google search trends scores  
+- returns  
+- excess returns  
+- Google search trends scores  
 Each observation corresponds to the first day of each month, ranging from January 2020 to October  
 2025, when the project began.  
 **market_monthly.csv** contains a dataset with 6 features and 70 observations, where each feature  
 describes S&P500 in the following ways:  
-    - Opening price  
-    - Closing price  
-    - Price high  
-    - Price low  
-    - Adjusted closing price  
-    - Volume  
+- Opening price  
+- Closing price  
+- Price high  
+- Price low  
+- Adjusted closing price  
+- Volume  
 Each observation corresponds to the first day of each month, ranging from January 2020 to October  
 2025, when the project began.  
 **stocks_monthly.csv** contains a dataset with 70 observations, where the features are the same  
@@ -59,13 +59,13 @@ Before running any code cells in any of the .ipynb files, install the required p
 the following code in a Python environment:  
     `pip install package`  
 Replace 'package' with each of the required packages:  
-    - yfinance  
-    - pandas  
-    - matplotlib  
-    - altair  
-    - scipy  
-    - statsmodels.api  
-    - datetime  
+- yfinance  
+- pandas  
+- matplotlib  
+- altair  
+- scipy  
+- statsmodels.api  
+- datetime  
 
 ### How to Run the .ipynb Files
 - For every .ipynb file included in the .zip, the user should run the code cells in the order  
