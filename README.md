@@ -4,6 +4,7 @@
 
 ### Inside the .zip
 After extracting .zip, it should contain:  
+
     - README.md  
     - DataCollection&Analysis.ipynb  
     - Regression.ipynb  
@@ -14,7 +15,7 @@ After extracting .zip, it should contain:
     - trends_monthly.csv  
 
 **README.md** will guide\inform users on how to run notebooks, installation of required packages,  
-source of dataset, and what each file inside .zip does.  
+source of dataset, and what each file inside .zip does.   
 **DataCollection&Analysis.ipynb** will contain all the code used to create the datasets used in  
 the visualizations.  
 **Regression.ipynb** will show linear regression models that aim to predict excess returns.  
